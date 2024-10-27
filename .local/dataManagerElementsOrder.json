@@ -1,0 +1,63 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "New Data Entry.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Manual data entry.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "isLoginPageExist&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Acme Project/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mainBrowserSession&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Acme Project/Manual data entry.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "webUrl&Sequence_1",
+        "isLoginPageExist&Sequence_2",
+        "pageLoaded&Sequence_2",
+        "downloadedFile&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "browserSession"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
